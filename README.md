@@ -7,4 +7,4 @@ where a sample audio file was recorded.
 
 Models implemented: KNN, Logistic Regression
 
-Techniques: Data cleaning, feature selection, outlier detection, class balancing and optimal model parameter selection using GridSearch
+Techniques: Data cleaning, feature selection, outlier detection, class balancing and optimal model parameter selection.
